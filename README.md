@@ -1,3 +1,4 @@
 # CheeseGPT
 Website about cheese created by ChatGPT
-your a bitch
+
+Live Long Bob Adams
